@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Miguel González Duque
+title: Djordje Grbic
 
 authors:
-- Miguel González Duque
+- Djordje Grbic
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: PhD Student
-user_groups: ["PhD Students"]
+role: Postdoc
+user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,9 +22,9 @@ bio: My research focuses on applying Bayesian modeling to create apps that adapt
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Bayesian Modeling
-- Real-time strategy games
+- Emergence
+- Reinforcement Learning
+- Safety
 
 # Education to show in About widget
 education:

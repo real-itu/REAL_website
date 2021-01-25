@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Miguel González Duque
+title: Sebastian Risi
 
 authors:
-- Miguel González Duque
+- Sebastian Risi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: PhD Student
-user_groups: ["PhD Students"]
+role: Professor
+user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
 organizations:

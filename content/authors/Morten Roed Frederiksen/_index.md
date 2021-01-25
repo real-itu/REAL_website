@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Miguel González Duque
+title: Morten Roed Frederiksen
 
 authors:
-- Miguel González Duque
+- Morten Roed Frederiksen
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: PhD Student
@@ -22,9 +22,9 @@ bio: My research focuses on applying Bayesian modeling to create apps that adapt
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Bayesian Modeling
-- Real-time strategy games
+- Emergence
+- Reinforcement Learning
+- Safety
 
 # Education to show in About widget
 education:

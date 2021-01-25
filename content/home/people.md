@@ -2,16 +2,18 @@
 widget: people
 headless: true  # This file represents a page section.
 active: true
-weight: 10
+weight: 12
 
 # ... Put Your Section Options Here (title etc.) ...
+title: "Meet the group"
+subtitle: ""
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Professors
-    - Posdocs
+    - Postdocs
     - PhD Students
     - Research Assistants
 design:
@@ -22,6 +24,6 @@ design:
   # Show user's role?
   show_role: true
   # Show user's organizations/affiliations?
-  show_organizations: true
+  show_organizations: false
 ---
 
