@@ -6,3 +6,6 @@
 public/
 jsconfig.json
 node_modules/
+
+# MacOS
+.DS_Store
