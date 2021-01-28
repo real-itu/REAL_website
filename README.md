@@ -16,3 +16,8 @@ This repo contains (a template of) the REAL group's website.
 
 Under `./content/authors/` you will see a folder with your name.
 
+
+## TODOs:
+
+[ ] Check the integration with Pure.
+[ ] Fill in the copytext for each profile.

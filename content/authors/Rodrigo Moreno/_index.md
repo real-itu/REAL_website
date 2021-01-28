@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Kasper Støy
+title: Rodrigo Moreno
 
 authors:
-- Kasper Støy
+- Rodrigo Moreno
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Full Professor
-user_groups: ["Professors"]
+role: Postdoc
+user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,7 +23,9 @@ bio: My research focuses on applying Bayesian modeling to create apps that adapt
 # Interests to show in About widget
 interests:
 - Robots
-- Drinking
+- Chemistry
+- AI
+- Evolutionary algorithms
 
 # Education to show in About widget
 education:
