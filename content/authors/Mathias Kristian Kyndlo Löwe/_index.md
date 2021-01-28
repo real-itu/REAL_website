@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Mathias Kristian Kyndlo Löwe
+title: Mathias Löwe
 
 authors:
-- Mathias Kristian Kyndlo Löwe
+- Mathias Löwe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student (Industrial)
 user_groups: ["PhD Students"]
 
 # Organizations/Affiliations to show in About widget
@@ -18,26 +18,29 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying Bayesian modeling to create apps that adapt to their users.
+bio: My research focuses on improving human-AI interation.
 
 # Interests to show in About widget
 interests:
-- Emergence
-- Reinforcement Learning
-- Safety
+- Bayesian Inference
+- Model-Based Machine Learning
+- Neural Networks
+- HumanAI
+- Adversarial Attacks on Neural Networks
+- Ensemble Methods
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: IT University of Copenhagen
+    year: 2021
+  - course: MSc in Software Development - Advanced Computing
+    institution: IT University of Copenhagen
+    year: 2018
+  - course: BSc in Software Development
+    institution: IT University of Copenhagen
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,16 +52,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mathiasloewe
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=IwTuCv8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MathiasLoewe
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mathias-l%C3%B6we-03b59446/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,8 +77,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mathias Löwe is an Industrial PhD Student in Artificial Intelligence (AI). Mathias started his PhD at the Center for Computer Games Research in September 2018. He collaborates with Blackwood Seven --- an AI media agency. His research interests include Bayesian models, Human-AI interaction, Neural Networks, Active Learning, and Ensemble Methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He holds a MSc in Software Development (Advanced Computing track) with specialization in Business Intelligence from the IT University of Copenhagen (ITU), and a BSc in Software Development - also from ITU.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
