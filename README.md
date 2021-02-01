@@ -12,10 +12,7 @@ This repo contains (a template of) the REAL group's website.
    1. `./content/authors/` for your personal profile.
    2. `./content/project/` and `./content/publication/` for your projects and publications.
 
-## An example:
-
-Under `./content/authors/` you will see a folder with your name.
-
+Guide yourself with the available examples!
 
 ## TODOs:
 
