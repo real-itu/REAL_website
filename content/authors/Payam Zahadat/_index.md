@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Professor
+role: Assistant Professor
 user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
@@ -18,26 +18,27 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying Bayesian modeling to create apps that adapt to their users.
+bio: My research focuses on swarm robotics and collecive intelligent systems. I am interested in how collective and complex systems function and take inspirations from natural (e.g., biological) systems to design computational methods applicable to distributed artificial systems.  
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Bayesian Modeling
-- Real-time strategy games
+- Swarm robotics
+- Collective intelligence
+- Bio-inspired computation
+- Complex and self-organized systems
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Shiraz University
+    year: 2011
+  - course: MSc in Artificial Intelligence
+    institution: Shiraz University
+    year: 2005
+  - course: BSc in Computer Engineering
+    institution: Shiraz University
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,19 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:paza@itu.dk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/PayamZahadat
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=eFKr5EIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pzahadat
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/payam-zahadat-b554091b/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an assistant professor at the computer science department of the IT University of Copenahgen, Denmark. Before that, I was a university assistant and postdoc at the University of Graz, Austria, and a research assistant at the Modular Robotics Lab, the Maersk McKinney Moller Institute, University of Southern Denmark. During the last years, I have been part of several EU-funded projects, i.e., florarobotica, ASSISIbf, CoCoRo, SYMBRION and REPLICATOR, and Locomorph. My research interests include both theoretical studies and applications in the field of swarm robotics and multi-modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
