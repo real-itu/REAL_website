@@ -18,26 +18,26 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying Bayesian modeling to create apps that adapt to their users.
+bio: My research focuses on how to build tools for designing juice effects and game feel.
 
 # Interests to show in About widget
 interests:
-- Emergence
-- Reinforcement Learning
-- Safety
+- Game Development
+- Mixed-Initiative Tools
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Game Development Tools
+    institution: IT University of Copenhagen
+    year: 2018-current
+  - course: MSc in Games
+    institution: IT University of Copenhagen
+    year: 2011-2014
+  - course: BSc in Software Engineering
+    institution: Technical University of Denmark
+    year: 2005-2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,16 +49,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/pyjamads
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=TgKFAKAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pyjamads
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/madsjohansen/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mads Johansen is a PhD fellow with a software engineering and game development background. His research focuses on mixed-initative game development tools, for designing juice effects and game feel. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As part of his PhD research he has developed Squeezer - a mixed-initiative tool for designing juice effects in prototypes. Available at https://github.com/pyjamads/Squeezer
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
