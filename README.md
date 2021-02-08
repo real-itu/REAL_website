@@ -11,10 +11,11 @@ This repo contains (a template of) the REAL group's website.
 3. Modify contents in folders
    1. `./content/authors/` for your personal profile.
    2. `./content/project/` and `./content/publication/` for your projects and publications.
+4. Check your changes by running `hugo server`. It'll start the site and tell you the address.
 
 Guide yourself with the available examples!
 
 ## TODOs:
 
-[ ] Check the integration with Pure.
-[ ] Fill in the copytext for each profile.
+- Check the integration with Pure.
+- Fill in the copytext for each profile.
