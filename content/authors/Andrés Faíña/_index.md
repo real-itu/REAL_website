@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Professor
+role: Associate Professor
 user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
@@ -22,9 +22,10 @@ bio: My research focuses on applying Bayesian modeling to create apps that adapt
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Bayesian Modeling
-- Real-time strategy games
+- Modular Robots
+- Evolutionary Algorithms
+- Liquid Handling Robots
+- Automatic Design of Robots
 
 # Education to show in About widget
 education:
