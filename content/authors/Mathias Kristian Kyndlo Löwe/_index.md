@@ -80,5 +80,3 @@ highlight_name: false
 Mathias Löwe is an Industrial PhD Student in Artificial Intelligence (AI). Mathias started his PhD at the Center for Computer Games Research in September 2018. He collaborates with Blackwood Seven --- an AI media agency. His research interests include Bayesian models, Human-AI interaction, Neural Networks, Active Learning, and Ensemble Methods.
 
 He holds a MSc in Software Development (Advanced Computing track) with specialization in Business Intelligence from the IT University of Copenhagen (ITU), and a BSc in Software Development - also from ITU.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

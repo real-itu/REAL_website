@@ -73,5 +73,3 @@ highlight_name: false
 ---
 
 Rodrigo is a Postdoc researcher working in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation.
-
-[//]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

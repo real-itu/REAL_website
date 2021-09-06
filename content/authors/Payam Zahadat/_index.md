@@ -78,3 +78,4 @@ highlight_name: false
 I am an assistant professor at the computer science department of the IT University of Copenahgen, Denmark. Before that, I was a university assistant and postdoc at the University of Graz, Austria, and a research assistant at the Modular Robotics Lab, the Maersk McKinney Moller Institute, University of Southern Denmark. During the last years, I have been part of several EU-funded projects, i.e., florarobotica, ASSISIbf, CoCoRo, SYMBRION and REPLICATOR, and Locomorph. My research interests include both theoretical studies and applications in the field of swarm robotics and multi-modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
