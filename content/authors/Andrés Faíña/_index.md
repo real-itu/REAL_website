@@ -18,14 +18,7 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on the development of intelligent robotic systems that can be used
-in the real world with minimal supervision. In order to achieve that, several artificial
-intelligence tools are used, from evolutionary computation to artificial neural networks. My
-background broadly spans the areas of mechatronics, modular robotics, evolutionary robotics
-and liquid handling robots. My research is highly interdisciplinary and involves simulated and
-real robots. I try to avoid simulation by implementing specific hardware setups to automatically 
-perform experiments in real life which avoids the bias
-introduced by the simulators. However, I use simulators when it is necesary to overcome time-consuming experiments.
+bio: My research interests focus on the development of intelligent robotic systems that can be used in the real world with minimal supervision. In order to achieve that, several artificial intelligence tools are used, from evolutionary computation to artificial neural networks. My background broadly spans the areas of mechatronics, modular robotics, evolutionary robotics and liquid handling robots. My research is highly interdisciplinary and involves simulated and real robots. I try to avoid simulation by implementing specific hardware setups to automatically  perform experiments in real life which avoids the bias introduced by the simulators. However, I use simulators when it is necesary to overcome time-consuming experiments.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +73,3 @@ highlight_name: false
 ---
 
 I am an Associate Professor at the IT University of Copenhagen, Denmark. I have received the M.Sc. and Ph. D. degrees in industrial engineering from the University of A Coruña, Spain, in 2006 and 2011, respectively. I have co-founded Flow Robotics (http://flow-robotics.com), a start-up that produces flexible and user-friendly liquid handling robots for automation of pipetting tasks in laboratories.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
