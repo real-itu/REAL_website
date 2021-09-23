@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Rodrigo Moreno
+title: Louisa Jane Di Felice
 
 authors:
-- Rodrigo Moreno
+- Louisa Jane Di Felice
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,27 +18,26 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc at the IT University of Copenhagen, Denmark. Intereste in robotics and AI. I like cycling and videogames.
+bio: I am interested in all aspects of robotics and AI, but in particular using articifical evolution as a tool to design more adaptive sytems capable of operating in the real world. 
 
 # Interests to show in About widget
 interests:
-- Robots
-- AI
-- Chemistry
-- Evolutionary algorithms
+- Evolutionary Robotics
+- Developmental Robotics
+- Embodied Intelligence
+- Morphological Computation
+- Soft Robots
+- Unconventional robots (braid robotics)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering, Computer Science
-    institution: Universidad Nacional de Colombia
-    year: 2019
-  - course: MEng in Industrial Automation
-    institution: Universidad Nacional de Colombia
-    year: 2010
-  - course: BSc in Mechatronics Engineering
-    institution: Universidad Nacional de Colombia
-    year: 2008
+  - course: PhD in Robotics and Automated Systems
+    institution: Bristol University / University of the West of England
+    year: 2020
+  - course: MEng in Mechanical Engineering
+    institution: University of Bath
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,15 +47,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/katt_walker
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=MgkqeO4AAAAJ
+  link: https://scholar.google.com/citations?user=bYkJ-zUAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/rmorenoga
+  link: https://github.com/kattwalker
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rodrigo-moreno-garcia-a311696a/
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,10 +68,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rodr@itu.dk"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Rodrigo is a Postdoc researcher working in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation.
+I am interested in all aspects of robotics and AI, but in particular using articifical evolution as a tool to design more adaptive sytems capable of operating in the real world. 
