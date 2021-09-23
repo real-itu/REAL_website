@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering - Computer Science
+  - course: PhD in Engineering, Computer Science
     institution: Universidad Nacional de Colombia
     year: 2019
   - course: MEng in Industrial Automation
