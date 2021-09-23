@@ -9,8 +9,8 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
-user_groups: ["PhD Students"]
+role: PostDoc
+user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,64 +18,42 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying Bayesian modeling to create apps that adapt to their users.
+bio: Morten is a robotics engineer and software developer with a keen interest in affective computing, synthetic emotions and artificial intelligence. Mortens current project focus on AI-driven context aware social robots. 
 
 # Interests to show in About widget
 interests:
-- Emergence
+- socially assistive robots
+- Human-robot interaction
 - Reinforcement Learning
-- Safety
+- context comprehension in robotics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  - course: PhD in robotics
+    institution: IT-University of Copenhagen
+    year: 2021
+  - course: MSc - Algorithm design track
+    institution: IT-University of Copenhagen
+    year: 2017
+  - course: BSc in software development
+    institution: IT-University of Copenhagen
+    year: 2015
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: https://orcid.org/0000-0002-5646-5195
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mrof@itu.dk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Morten is a software developer and robotics engineer with a keen interest in affective computing, synthetic emotions and artificial intelligence. His research focuses primarily on affective robotics, robotics & affective interaction design, and constructing emotionally intelligent systems. With a focus on the engineering aspects of robot construction, Morten’s projects evolve around improving how robots communicate affective information. This is achieved through expanding knowledge on the means of which robots express themselves and the software that controls their behaviour.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Morten holds a PhD in robotics, a BA and MA in software development which he received at the IT-University of Copenhagen.  His current projects include context-awareness for social robots and behavior adaptation in HRI. He has received several research scholarships including the Fulbright Scolorship.
