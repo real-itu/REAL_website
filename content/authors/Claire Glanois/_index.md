@@ -82,7 +82,7 @@ highlight_name: false
 I am a mathematician, previously working at the intersection of number theory and algebraic geometry. 
 My current research is looking at how agents may learn, adapt, self-organise, and learn to learn, in a more open-ended way.
 I am also interested in making AI algorithms more interpretable, notably through neuro-logic approaches. 
-In parallel, I am sensitive to algorithmic {plurality, normativity, transparency}, and experiment with ways for artificial agents to be more diverse, situated, and homegrown.
+In parallel, I am sensitive to algorithmic.{plurality, normativity, transparency}, and experiment with ways for artificial agents to be more diverse, situated, and homegrown.
 
 <!--  Robotics, Evolution and Art Laboratory (REAL) Group of Digital Design department at IT University of Copenhagen, Denmark.-->
 
