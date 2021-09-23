@@ -1,10 +1,10 @@
 ---
 title: Modern AI in Games
-summary: An example of using the in-built project page.
+summary: Summary of the course
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# MGD: Add the link to LearnIT
+# Add the link to LearnIT
 external_link: "https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=749"
 
 image:
