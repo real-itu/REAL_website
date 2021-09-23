@@ -43,6 +43,7 @@ education:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
+links:
  - icon: cv
    icon_pack: ai
    link: https://orcid.org/0000-0002-5646-5195
