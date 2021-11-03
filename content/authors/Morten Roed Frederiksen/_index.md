@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PostDoc
+role: Postdoc
 user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
