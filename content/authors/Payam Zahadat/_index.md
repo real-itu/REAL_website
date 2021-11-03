@@ -18,7 +18,7 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on swarm robotics and collecive intelligent systems. I am interested in how collective and complex systems function and take inspirations from natural (e.g., biological) systems to design computational methods applicable to distributed artificial systems.  
+bio: My research focuses on swarm robotics and collecive intelligent systems. 
 
 # Interests to show in About widget
 interests:
@@ -70,5 +70,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I study how complex collective systems function and design computational methods for distributed artificial systems (e.g., robotic swarms) by taking inspiration from natural systems.  
 
-My research includes both theoretical studies and applications in the field of swarm robotics and modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
+My research includes both theoretical studies and applications in the field of swarm robotics, modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
+
+
