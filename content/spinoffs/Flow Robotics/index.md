@@ -1,6 +1,6 @@
 ---
 title: Flow Robotics
-summary: An example of using the in-built project page.
+summary: Summary.
 tags:
 - Robotics
 date: "2016-04-27T00:00:00Z"
