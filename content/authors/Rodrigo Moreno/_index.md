@@ -22,15 +22,16 @@ bio: Postdoc at the IT University of Copenhagen, Denmark. Intereste in robotics 
 
 # Interests to show in About widget
 interests:
-- Robots
-- AI
-- Chemistry
-- Evolutionary algorithms
+- Modular Robots
+- Artificial Intelligence
+- Emergence 
+- Lab Automation
+- Evolutionary Robotics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering
+  - course: PhD in Engineering, Systems and Computer Engineering
     institution: Universidad Nacional de Colombia
     year: 2019
   - course: MEng in Industrial Automation
@@ -72,4 +73,4 @@ email: "rodr@itu.dk"
 highlight_name: false
 ---
 
-Rodrigo is a Postdoc researcher working in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation.
+Rodrigo is a Postdoc researcher working with Lab automation for battery chemistry synthesis processes in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation. Other projects he is working on include the [EMERGE](/project/EMERGE) project.

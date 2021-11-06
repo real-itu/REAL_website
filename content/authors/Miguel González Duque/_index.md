@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Payam Zahadat
+title: Miguel González Duque
 
 authors:
-- Payam Zahadat
+- Miguel González Duque
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
-user_groups: ["Professors"]
+role: PhD Student
+user_groups: ["PhD Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,29 +18,23 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on swarm robotics and collecive intelligent systems. 
+bio: My work focuses on applications of Bayesian Statistics, Generative Modelling and Differential Geometry.
 
 # Interests to show in About widget
 interests:
-- Swarm robotics
-- Evolutionary robotics
-- Collective intelligence
-- Bio-inspired computation
-- self-organizing systems
-- Complex systems
+- Dynamic Difficulty Adjustment
+- Generative models
+- Differential Geometry
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Shiraz University
-    year: 2011
-  - course: MSc in Artificial Intelligence
-    institution: Shiraz University
-    year: 2005
-  - course: BSc in Computer Engineering
-    institution: Shiraz University
-    year: 2002
+  - course: MSc in Mathematics
+    institution: Universidad Nacional de Colombia, Medellín
+    year: 2019
+  - course: BSc in Mathematics
+    institution: Universidad Nacional de Colombia, Manizales
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,13 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:paza at itu.dk'
+  link: 'mailto:migd@itu.dk'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/miguelgondu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=eFKr5EIAAAAJ&hl=en
-- icon: linkedin
+  link: https://scholar.google.com/citations?user=eje0FAYAAAAJ&hl=es
+- icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/payam-zahadat-b554091b/
+  link: https://github.com/miguelgondu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,13 +62,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "migd@itu.dk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I study how complex collective systems function and design computational methods for distributed artificial systems (e.g., robotic swarms) by taking inspiration from natural systems.  
 
-My research includes both theoretical studies and applications in the field of swarm robotics, modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
-
-
+I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots. I am also researching how this content could be automatically generated using Deep Generative Models (e.g. VAEs).
