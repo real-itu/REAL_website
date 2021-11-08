@@ -5,7 +5,7 @@ authors: ["Andrés Faíña"]
 
 # Optional external URL for project (replaces project detail page).
 # Add the link to LearnIT
-external_link: "https://learnit.itu.dk/course/view.php?id=3019701"
+external_link: "https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=872"
 
 image:
   caption: Photo by rawpixel on Unsplash
