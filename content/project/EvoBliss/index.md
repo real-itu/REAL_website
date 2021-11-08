@@ -1,6 +1,6 @@
 ---
 title: EvoBliss
-summary: Summary
+summary: Technological Evolution of Synergy Between Physicochemical and Living Systems
 date: "2016-04-27T00:00:00Z"
 
 authors: ["Kasper Støy", "Andrés Faíña", "Brian Nejati", "Carlotta Porcelli"]
