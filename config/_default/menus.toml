@@ -11,27 +11,27 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 30
+  weight = 10
 
 [[main]]
   name = "News"
   url = "#news"
-  weight = 85
+  weight = 15
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 15
+  weight = 5
 
 [[main]]
   name = "Education"
   url = "#education"
-  weight = 72
+  weight = 25
 
 [[main]]
   name = "Spinoffs"
   url = "#spinoffs"
-  weight = 70
+  weight = 30
 
 
 
