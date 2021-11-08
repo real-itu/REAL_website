@@ -2,7 +2,7 @@
 widget: people
 headless: true  # This file represents a page section.
 active: true
-weight: 30
+weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
 title: "Meet the group"
@@ -15,7 +15,9 @@ content:
     - Professors
     - Postdocs
     - PhD Students
+    - Visiting PhD Students
     - Research Assistants
+    - Previous Members
 design:
   # Show user's social networking links? (true/false)
   show_social: true

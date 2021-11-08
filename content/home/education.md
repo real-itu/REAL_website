@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 72
+weight: 35
 
 title: Education
 subtitle: ''

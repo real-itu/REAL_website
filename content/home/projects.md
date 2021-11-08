@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 15
 
 title: Projects
 subtitle: ''
@@ -20,7 +20,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
