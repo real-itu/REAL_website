@@ -9,7 +9,7 @@ authors: ["Djordje Grbic", "Sebastian Risi"]
 external_link: ""
 
 image:
-  caption: Agent learning a task
+  caption: Agent (red) learning to push orange buttons while avoiding blue danger zones
   focal_point: Smart
 
 ---
