@@ -6,7 +6,7 @@ authors:
 - Sidney Pontes-Filho
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: PhD Student
@@ -18,23 +18,27 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work focuses on applications of Bayesian Statistics, Generative Modelling and Differential Geometry.
+bio: My work focuses on evolutionary robotics, neuroevolution, meta-learning, complex systems, computational neuroscience, open-endedness and unconventional computing.
 
 # Interests to show in About widget
 interests:
-- Dynamic Difficulty Adjustment
-- Generative models
-- Differential Geometry
+- Evolutionary Robotics
+- Neuroevolution
+- Meta-learning
+- Complex Systems
+- Computational Neuroscience
+- Open-Endedness
+- Unconventional Computing
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Mathematics
-    institution: Universidad Nacional de Colombia, Medellín
-    year: 2019
-  - course: BSc in Mathematics
-    institution: Universidad Nacional de Colombia, Manizales
-    year: 2016
+  - course: MSc in Computer Science
+    institution: Technical University of Kaiserslautern, Kaiserslautern, Germany
+    year: 2018
+  - course: BSc in Computer Science
+    institution: Federal University of Paraíba, João Pessoa, Brazil
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,29 +47,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:migd@itu.dk'
+  link: 'mailto:sidp@itu.dk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/miguelgondu
+  link: https://twitter.com/SidneyPontesF
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=eje0FAYAAAAJ&hl=es
+  link: https://scholar.google.com/citations?user=RyB-lesAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/miguelgondu
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+  link: https://github.com/sidneyp
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sidneypontesf/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "migd@itu.dk"
+email: "sidp@itu.dk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots. I am also researching how this content could be automatically generated using Deep Generative Models (e.g. VAEs).
+I am a visiting PhD student under the supervision of Sebastian Risi. The visiting period is from September to December, 2021. My PhD program in Computer Science is at Norwegian University of Science and Technology (NTNU), Trondheim, Norway, and I am working as a PhD Fellow at Oslo Metropolitan University (OsloMet), Oslo, Norway. I started my doctoral studies in September, 2018. My current research interests are evolutionary robotics, neuroevolution, meta-learning, complex systems, computational neuroscience, open-endedness and unconventional computing.
