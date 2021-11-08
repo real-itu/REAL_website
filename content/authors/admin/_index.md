@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Admin
+title: REALab
 
 authors:
 - admin
