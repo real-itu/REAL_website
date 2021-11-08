@@ -1,5 +1,5 @@
 ---
-title: Flora Robotica
+title: Open Ended Evolution
 summary: Summary
 date: "2016-04-27T00:00:00Z"
 

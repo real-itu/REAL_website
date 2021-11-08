@@ -1,5 +1,5 @@
 ---
-title: Flora Robotica
+title: Safe & Continual RL
 summary: Summary
 date: "2016-04-27T00:00:00Z"
 
