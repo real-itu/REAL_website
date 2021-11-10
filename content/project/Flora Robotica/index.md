@@ -1,6 +1,6 @@
 ---
 title: Flora Robotica
-summary: Summary
+summary: Developing and investigating symbiotic relationships between robots and natural plants, to produce architectural artifacts and living spaces
 date: "2016-04-27T00:00:00Z"
 
 authors: ["Kasper Støy", "Payam Zahadat", "Sebastian Risi", "Andrés Faiña"]
