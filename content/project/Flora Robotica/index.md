@@ -9,8 +9,7 @@ authors: ["Kasper Støy", "Payam Zahadat", "Sebastian Risi", "Andrés Faiña"]
 external_link: "http://www.florarobotica.eu/"
 
 image:
-  caption: The distributed vascular controller operating on Thymio
-  robots and simulation
+  caption: The distributed vascular controller operating on Thymio robots and simulation
   focal_point: Smart
 
 ---
