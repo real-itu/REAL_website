@@ -18,14 +18,13 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying Bayesian modeling to create apps that adapt to their users.
+bio: My work focuses on applications of Bayesian Statistics, Generative Modelling and Differential Geometry.
 
 # Interests to show in About widget
 interests:
 - Dynamic Difficulty Adjustment
-- Bayesian Modeling
-- Optimization
-- Real-time strategy games
+- Generative models
+- Differential Geometry
 
 # Education to show in About widget
 education:
@@ -69,6 +68,4 @@ email: "migd@itu.dk"
 highlight_name: false
 ---
 
-I started my PhD at the REAL Lab at ITU in Oct. 2019 under the supervision of Sebastian Risi. We are applying Bayesian Optimization and other probabilistic modelling techniques for dynamic content adaption in games.
-
-During my MSc I worked on creating expressive bots for StarCraft 2.
+I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots. I am also researching how this content could be automatically generated using Deep Generative Models (e.g. VAEs).

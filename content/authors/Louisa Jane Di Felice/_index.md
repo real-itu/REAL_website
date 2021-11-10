@@ -18,25 +18,25 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in all aspects of robotics and AI, but in particular using articifical evolution as a tool to design more adaptive sytems capable of operating in the real world. 
+bio: My research is driven by quantitative and qualitative approaches grounded in complexity. I am interested in the behaviour of multi-scale systems, particularly in how different scales affect one another through information flows and feedback cycles. Right now, I am thinking about group formation, decision-making and collective computation in multi-scale systems, taking inspiration from human social systems. Previously, I worked on sustainability assessments at the science-policy interface. 
 
 # Interests to show in About widget
 interests:
-- Evolutionary Robotics
-- Developmental Robotics
-- Embodied Intelligence
-- Morphological Computation
-- Soft Robots
-- Unconventional robots (braid robotics)
+- Complexity
+- Multi-Scale Systems
+- Adaptation
+- Feedback
+- Downward Causation
+- Collective Computation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Robotics and Automated Systems
-    institution: Bristol University / University of the West of England
+  - course: PhD in Environmental Science and Technology
+    institution: Autonomous University of Barcelona
     year: 2020
-  - course: MEng in Mechanical Engineering
-    institution: University of Bath
+  - course: MSc in Interdisciplinary Studies in Environmental, Social and Economic Sustainability 
+    institution: Autonomous University of Barcelona
     year: 2016
 
 # Social/Academic Networking
@@ -46,19 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:lodi@itu.dk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/katt_walker
+  link: https://twitter.com/louisadifelice
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=bYkJ-zUAAAAJ&hl=en&oi=sra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kattwalker
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.com/citations?user=Uw4DkZQAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,4 +68,4 @@ email: ""
 highlight_name: false
 ---
 
-I am interested in all aspects of robotics and AI, but in particular using articifical evolution as a tool to design more adaptive sytems capable of operating in the real world. 
+My research is driven by quantitative and qualitative approaches grounded in complexity. I am interested in the behaviour of multi-scale systems, particularly in how different scales affect one another through information flows and feedback cycles. Right now, I am thinking about group formation, decision-making and collective computation in multi-scale systems, taking inspiration from human social systems. Previously, I worked on sustainability assessments at the science-policy interface. 

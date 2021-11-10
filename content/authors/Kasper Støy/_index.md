@@ -66,5 +66,5 @@ email: "ksty-itu.dk"
 highlight_name: false
 ---
 
-
+Kasper Støy is a robotics and embodied artificial intelligence researcher, entrepreneur and teacher holding a professor position at the Computer Science Department of the IT University of Copenhagen. He engages with ideas of ground-breaking potential across the domain of robotics in startups as well as in research. He co-founded Universal Robots and recently Flow Robotics.  He has published more than ninety papers in international conference proceedings or journals and is the author of the book titled "Self-Reconfigurable Robot: An Introduction" published by MIT Press. He holds a M.Sc. degree in computer science and physics from the University of Aarhus, Denmark (1999) and a Ph.D. degree in computer system engineering from the University of Southern Denmark (2003).
 

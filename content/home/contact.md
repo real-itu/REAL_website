@@ -1,31 +1,27 @@
 ---
-# An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: blank
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
-active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 80
 
-title: Contact
-subtitle:
+title: Find us
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
-design:
-  columns: '2'
 ---
+
+### Address
+
+Rued Langgaards Vej 7
+
+2300 København S
+
+Danmark
+
+Our offices are located at Emil Holms Kanal, 2F18.
+

@@ -18,14 +18,16 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on swarm robotics and collecive intelligent systems. I am interested in how collective and complex systems function and take inspirations from natural (e.g., biological) systems to design computational methods applicable to distributed artificial systems.  
+bio: My research focuses on swarm robotics and collecive intelligent systems. 
 
 # Interests to show in About widget
 interests:
 - Swarm robotics
+- Evolutionary robotics
 - Collective intelligence
 - Bio-inspired computation
-- Complex and self-organized systems
+- self-organizing systems
+- Complex systems
 
 # Education to show in About widget
 education:
@@ -47,16 +49,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:paza@itu.dk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PayamZahadat
+  link: 'mailto:paza at itu.dk'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=eFKr5EIAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/pzahadat
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/payam-zahadat-b554091b/
@@ -74,8 +70,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I study how complex collective systems function and design computational methods for distributed artificial systems (e.g., robotic swarms) by taking inspiration from natural systems.  
 
-I am an assistant professor at the computer science department of the IT University of Copenahgen, Denmark. Before that, I was a university assistant and postdoc at the University of Graz, Austria, and a research assistant at the Modular Robotics Lab, the Maersk McKinney Moller Institute, University of Southern Denmark. During the last years, I have been part of several EU-funded projects, i.e., florarobotica, ASSISIbf, CoCoRo, SYMBRION and REPLICATOR, and Locomorph. My research interests include both theoretical studies and applications in the field of swarm robotics and multi-modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
+My research includes both theoretical studies and applications in the field of swarm robotics, modular robotics, collective intelligence, self-organizing systems, evolutionary robotics, and bio-inspired computation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
