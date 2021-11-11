@@ -73,3 +73,5 @@ highlight_name: false
 ---
 
 I am an Associate Professor at the IT University of Copenhagen, Denmark. I have received the M.Sc. and Ph. D. degrees in industrial engineering from the University of A Coruña, Spain, in 2006 and 2011, respectively. I have co-founded Flow Robotics (http://flow-robotics.com), a start-up that produces flexible and user-friendly liquid handling robots for automation of pipetting tasks in laboratories.
+
+If you are a master student looking for projects, follow [this link](/projects_msc/).
