@@ -1,6 +1,6 @@
 ---
 title: BIG-MAP
-summary: Summary
+summary: Battery Interface Genome - Materials Acceleration Platform
 date: "2016-04-27T00:00:00Z"
 
 authors: ["Kasper Støy", "Andrés Faíña", "Rodrigo Moreno"]
@@ -13,5 +13,3 @@ image:
   focal_point: Smart
 
 ---
-
-Hi Hello world
