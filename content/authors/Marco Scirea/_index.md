@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rosemary Lee
+title: Marco Scirea
 
 authors:
 - Miguel González Duque

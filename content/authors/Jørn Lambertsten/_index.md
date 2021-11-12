@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rosemary Lee
+title: Jørn Lambertsten
 
 authors:
 - Miguel González Duque
@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Research Assistant
 user_groups: ["Previous Members"]
 
 # Organizations/Affiliations to show in About widget

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Niels Justesen
+title: Frank Veenstra
 
 authors:
-- Niels Justesen
+- Miguel González Duque
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,8 +16,6 @@ user_groups: ["Previous Members"]
 organizations:
 - name: IT University of Copenhagen
   url: https://www.itu.dk/
-
-external_link: "https://njustesen.github.io/njustesen/"
 
 # Add this to former members
 _build:
