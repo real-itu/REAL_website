@@ -3,7 +3,7 @@ title: iNNk
 summary: An online, multiplayer, neural network based game. <i>Try out the game and see if your team can communicate safely without the neural network's comprehension.</i>
 date: "2021-11-11T00:00:00Z"
 
-authors: ["Matihas Löwe"]
+authors: ["Mathias Kristian Kyndlo Löwe"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
