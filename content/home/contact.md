@@ -25,3 +25,5 @@ Danmark
 
 Our offices are located at Emil Holms Kanal, 2F18.
 
+Our Lab is located at RLV 7, 5A20/22.
+
