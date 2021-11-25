@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Professor
+role: Full Professor
 user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget

@@ -3,7 +3,7 @@
 title: Kasper Støy
 
 authors:
-- Kasper Stø
+- Kasper Støy
 
 # Is this the primary user of the site?
 superuser: false
