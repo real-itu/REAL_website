@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Andrés Faíña
+slug: afaina
 
 authors:
 - Andrés Faíña
