@@ -76,7 +76,7 @@ email: ""
 highlight_name: false
 ---
 
-Elias Najarro is a PhD fellow. His research focuses on applying self-organizing and bio-inspired ideas to machine learning.
+Elias Najarro is a PhD fellow. His research focuses on applying self-organizing and bio-inspired systems ideas to machine learning.
 
 <!-- He's currently working on neuro-inspired meta-learning and Open-Endedness. -->
 
