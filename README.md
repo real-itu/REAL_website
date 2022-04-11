@@ -12,6 +12,23 @@ In `./content/authors` find someone who shares a similar role to you (be it prof
 2. Change `avatar.png` to a photo of you, but **keep the name `avatar.png`**.
 3. Modify `_index.md` by adding your information.
 
+## How to move someone to previous members
+
+When someone leaves our lab:
+1. Find their folder in `./content/authors` and open their `_index.md`.
+2. Replace whatever is inside `user_groups` with only `["Previous Members"]`
+3. Copy and paste the following bit right after if you don't want a profile page to be built:
+
+```yaml
+# Add this to former members
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+```
+
 ## How to add a new project
 
 In `./content/project`, you can
