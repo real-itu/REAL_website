@@ -10,12 +10,20 @@ superuser: false
 
 # Role/position/tagline
 role: Assistant Professor
-user_groups: ["Professors"]
+user_groups: ["Previous Members"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: IT University of Copenhagen
   url: https://www.itu.dk/
+
+# Add this to former members
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant professor at the IT University of Copenhagen, Denmark. I like games, VR and HCI!
@@ -75,5 +83,3 @@ highlight_name: false
 ---
 
 I am an assistant professor at the department of Digital Design of the IT University of Copenhagen, Denmark. Before that, I was a senior researcher at Artanim Foundation, a Swiss research center specialized in motion capture technologies. My research interests include virtual and mixed reality, immersive interaction and spatial interfaces, machine learning in HCI and design and computer animation and graphics.
-
-[//]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

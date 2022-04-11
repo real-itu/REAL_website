@@ -10,7 +10,15 @@ superuser: false
 
 # Role/position/tagline
 role: PhD Student (Industrial)
-user_groups: ["PhD Students"]
+user_groups: ["Previous Members"]
+
+# Add this to former members
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 # Organizations/Affiliations to show in About widget
 organizations:
