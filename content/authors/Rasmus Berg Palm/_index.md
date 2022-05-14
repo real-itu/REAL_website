@@ -10,7 +10,7 @@ superuser: false
 
 # Role/position/tagline
 role: Postdoc
-user_groups: ["Postdocs"]
+user_groups: ["Previous Members"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,13 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
