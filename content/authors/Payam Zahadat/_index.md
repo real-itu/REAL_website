@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
@@ -18,7 +18,7 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on swarm robotics and collecive intelligent systems. 
+bio: My research focuses on swarm and bio-inspired robotics and collective intelligence. 
 
 # Interests to show in About widget
 interests:
