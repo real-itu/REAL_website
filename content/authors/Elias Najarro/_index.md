@@ -23,6 +23,7 @@ bio: Physicist interested in {brains, complexity, evolutionary computation & ALi
 # Interests to show in About widget
 interests:
 - Self-organizing systems
+- Neuro-inspired ML
 - Evolutionary Computation
 - Meta-Learning
 - Open-Endedness
