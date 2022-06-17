@@ -7,6 +7,82 @@ This repo contains the REAL group's website.
 # How-to
 ## How to add a new profile
 
+Here is a template profile:
+
+```md
+---
+# Display name 
+# MODIFY:
+title: Your name here
+
+# MODIFY:
+authors:
+- Your name here
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position/tagline
+# MODIFY:
+role: Postdoc
+user_groups: ["Postdocs"]
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: IT University of Copenhagen
+  url: https://www.itu.dk/
+
+# Short bio (displayed in user profile at end of posts)
+# MODIFY:
+bio: Working on self-driving vehicle safety.
+
+# Interests to show in About widget
+# MODIFY:
+interests:
+- Emergence
+- Reinforcement Learning
+- Safety
+
+# Education to show in About widget
+# UNCOMMENT AND MODIFY IF YOU WANT TO:
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# MODIFY: add your mail, pure and Google Scholar if you want.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:YOUR-MAIL-HERE
+- icon: external-link-alt
+  icon_pack: fas
+  link: YOUR-LINK-TO-PURE-HERE
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+---
+
+WRITE A SHORT BIO HERE.
+```
+
+
 In `./content/authors` find someone who shares a similar role to you (be it professor, phd student or posdoc) and
 1. copy-paste their profile folder and change its name to yours.
 2. Change `avatar.png` to a photo of you, but **keep the name `avatar.png`**.
