@@ -82,7 +82,6 @@ highlight_name: false
 WRITE A SHORT BIO HERE.
 ```
 
-
 In `./content/authors` find someone who shares a similar role to you (be it professor, phd student or posdoc) and
 1. copy-paste their profile folder and change its name to yours.
 2. Change `avatar.png` to a photo of you, but **keep the name `avatar.png`**.
