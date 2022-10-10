@@ -10,7 +10,7 @@ superuser: false
 
 # Role/position/tagline
 role: Visiting PhD Student
-user_groups: ["Visiting PhD Students"]
+user_groups: ["Previous Members"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
