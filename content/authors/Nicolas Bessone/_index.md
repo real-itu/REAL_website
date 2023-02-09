@@ -55,8 +55,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:nhbessone@gmail.com
-- icon: external-link-alt
-  icon_pack: fas
+- icon: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/nicolas-bessone-386812165/
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas

@@ -56,8 +56,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:thvo@itu.dk
-- icon: linkedin-in
-  icon_pack: fas
+- icon: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/thomasvolden/
 - icon: twitter
   icon_pack: fab

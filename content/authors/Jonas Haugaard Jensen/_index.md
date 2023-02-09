@@ -60,7 +60,7 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: www.linkedin.com/in/jonas-haugaard-jensen
 
 
