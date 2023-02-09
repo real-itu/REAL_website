@@ -30,7 +30,7 @@ interests:
 - Artificial Intelligence
 - Bio-inspired Computation
 - Collective Behavior
-- Decentralised System
+- Decentralized System
 - Emergence
 - Evolutionary Algorithms
 - Evolutionary Robotics
