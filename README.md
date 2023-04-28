@@ -2,7 +2,7 @@
 
 Hey everyone!
 
-This repo contains the REAL group's website. It is built using Wowchemy's academic template. [You can read the documentation for Wowchemy here](https://wowchemy.com/docs/).
+This repo contains the REAL group's website. It is built using Wowchemy's academic template. [You can read the documentation for Wowchemy here](https://wowchemy.com/docs/). The website is hosted on netlify, and Thomas has access to it. Contact him if your changes are not being reflected!
 
 # How-to
 ## How to add a new profile
@@ -89,7 +89,7 @@ In `./content/authors` find someone who shares a similar role to you (be it prof
 
 All of the active roles can be found in `./home/people`:
 
-```
+```yaml
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
