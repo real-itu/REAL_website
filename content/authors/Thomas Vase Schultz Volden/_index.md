@@ -82,4 +82,4 @@ I have worked as a professional developer for more than ten years. I have worked
 In the summer of 2022 I received my masters degree in Games from ITU and immediately applied for an industrial PhD project which I started mid August 2022.
 The subject of the project is to optimize learning for young children with games, learning analytics and procedural content generation.
 
-In my spare time I teach children how to code and make games as a volunteer at [Coding Pirates](https://codingpirates.dk/) - Ballerup.
+In my spare time I teach children how to code and make games as a volunteer at [Coding Pirates](https://codingpirates.dk/) - Ballerup. I am also a member of the board on the national board of Coding Pirates. 
