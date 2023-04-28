@@ -2,7 +2,7 @@
 
 Hey everyone!
 
-This repo contains the REAL group's website.
+This repo contains the REAL group's website. It is built using Wowchemy's academic template. [You can read the documentation for Wowchemy here](https://wowchemy.com/docs/).
 
 # How-to
 ## How to add a new profile
@@ -86,6 +86,20 @@ In `./content/authors` find someone who shares a similar role to you (be it prof
 1. copy-paste their profile folder and change its name to yours.
 2. Change `avatar.png` to a photo of you, but **keep the name `avatar.png`**.
 3. Modify `_index.md` by adding your information.
+
+All of the active roles can be found in `./home/people`:
+
+```
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Professors
+    - Postdocs
+    - PhD Students
+    - Visiting PhD Students
+    - Research Assistants
+```
 
 ## How to move someone to previous members
 
