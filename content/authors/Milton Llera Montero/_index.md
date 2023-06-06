@@ -63,7 +63,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mTcxP70AAAAJ&hl=en
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/miltonllera
 - icon: external-link-alt
   icon_pack: fas
