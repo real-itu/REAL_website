@@ -38,11 +38,11 @@ interests:
 
 # Education to show in About widget
 # UNCOMMENT AND MODIFY IF YOU WANT TO:
- education:
-   courses:
-   - course: PhD in Psychology
-     institution: University of Bristol
-     year: 2023
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: University of Bristol
+    year: 2023
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
