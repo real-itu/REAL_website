@@ -64,7 +64,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TVolden
-- icon: mastrodon
+- icon: mastodon
   icon_pack: fab
   link: https://social.itu.dk/@tvolden
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
