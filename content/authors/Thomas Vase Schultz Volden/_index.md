@@ -27,11 +27,10 @@ bio: PhD Student studying learning analytics, procedural content generation and 
 # Interests to show in About widget
 # MODIFY:
 interests:
-- Learning Analytics
 - Procedural Content Generation
-- Game analytics
-- Artificial Intelligence
-- Neuroscience
+- Player modeling
+- Adaptive Puzzle Games
+- Large Language Models
 
 # Education to show in About widget
 # UNCOMMENT AND MODIFY IF YOU WANT TO:
@@ -43,6 +42,9 @@ education:
    - course: B.Eng. Information Technology
      institution: Technical University of Denmark
      year: 2010
+   - course: Journeyman Data Technician
+     institution: TEC Ballerup
+     year: 2006
 #   - course: BSc in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2008
@@ -59,12 +61,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomasvolden/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/l0wl3jf
 - icon: github
   icon_pack: fab
   link: https://github.com/TVolden
+- icon: mastrodon
+  icon_pack: fab
+  link: https://social.itu.dk/@tvolden
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
@@ -74,12 +76,11 @@ email: "thvo@itu.dk"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I'm a husband and dad of two, who recently decided to deviate from my professional career to pursue an academic career instead.
 
 I have worked as a professional developer for more than ten years. I have worked in various industries like mobility, finance, hosting and security.
 
-In the summer of 2022 I received my masters degree in Games from ITU and immediately applied for an industrial PhD project which I started mid August 2022.
-The subject of the project is to optimize learning for young children with games, learning analytics and procedural content generation.
+In the summer of 2022 I received my masters degree in Games from ITU and immediately applied for an PhD project which I started mid August 2022.
+The subject of the project is to optimize learning for young children with adaptive games, player modeling and procedural content generation.
 
-In my spare time I teach children how to code and make games as a volunteer at [Coding Pirates](https://codingpirates.dk/) - Ballerup. I am also a member of the board on the national board of Coding Pirates. 
+In my spare time I teach children how to code and make games as a volunteer at [Coding Pirates](https://codingpirates.dk/) - Ballerup.
