@@ -58,9 +58,9 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://pure.itu.dk/en/persons/meisam-jamshidi-seikavandi
- - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-   icon_pack: fas
-   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
