@@ -62,7 +62,7 @@ social:
    icon_pack: fas
    link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "meis@itu.dk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
