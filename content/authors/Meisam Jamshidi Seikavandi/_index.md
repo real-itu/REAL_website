@@ -62,12 +62,11 @@ social:
    icon_pack: fas
    link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "meis@itu.dk"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I hold a Bachelor's degree in Electronics Engineering and a Master's in Digital Signal Processing. I co-founded a startup dedicated to computer vision for CNC engraving machine automation, an experience that truly broadened my horizons. My previous research focused on Visual Quality Assessment at NTNU, where I contributed to the development of advanced visual recognition techniques.
 
 During my time as a Research Assistant at Aalborg University, I specialized in object detection and action recognition for sports video analysis.
