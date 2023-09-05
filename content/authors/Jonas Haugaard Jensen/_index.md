@@ -9,8 +9,8 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
-user_groups: ["Research Assistants"]
+role: PhD Student
+user_groups: ["PhD Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
