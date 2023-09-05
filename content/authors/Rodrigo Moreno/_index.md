@@ -9,8 +9,8 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
-user_groups: ["Postdocs"]
+role: Assistant Professor
+user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
