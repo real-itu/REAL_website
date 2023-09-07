@@ -54,7 +54,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: elennisioti@gmail.com
+  link: mailto:elennisioti@gmail.com
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
