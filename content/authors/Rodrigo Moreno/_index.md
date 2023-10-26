@@ -73,4 +73,4 @@ email: "rodr@itu.dk"
 highlight_name: false
 ---
 
-Rodrigo is a Postdoc researcher working with Lab automation for battery chemistry synthesis processes in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation. Other projects he is working on include the [EMERGE](/project/EMERGE) project.
+Rodrigo is a an Assistant Professor working with Lab automation for battery chemistry synthesis processes in the BIG-MAP project at the IT University of Copenhagen. Rodrigo joined ITU in 2020. He holds a PhD in Systems and Computer Engineering from Universidad Nacional de Colombia. His researh interest include AI and machine learning applied to robotics, evolutionary robotics, modular robots and automation. Other projects he is working on include the [EMERGE](/project/EMERGE) project.
