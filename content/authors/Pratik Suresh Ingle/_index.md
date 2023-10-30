@@ -1,11 +1,11 @@
 ---
-# Display name 
+# Display name
 # MODIFY:
 title: Pratik Suresh Ingle
 
 # MODIFY:
 authors:
-- Pratik Suresh Ingle
+  - Pratik Suresh Ingle
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,32 +17,35 @@ user_groups: ["PhD Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IT University of Copenhagen
-  url: https://www.itu.dk/
+  - name: IT University of Copenhagen
+    url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
 # MODIFY:
-bio: Working on decentralized robotic manipulation with modular robots 
-
+bio: Working on distributed control and learning in soft modular robots.
 # Interests to show in About widget
 # MODIFY:
 interests:
-- Robotics
-- Multi-agent systems
+  - Swarm Robotics
+  - Collective Behaviour
+  - Multi-agent Systems
+  - Evolutionary Robotics
+  - Bio-inspired Computation
+  - Reinforcement Learning
 
 # Education to show in About widget
 # UNCOMMENT AND MODIFY IF YOU WANT TO:
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+education:
+  courses:
+    #   - course: PhD in Artificial Intelligence
+    #     institution: Stanford University
+    #     year: 2012
+    #   - course: MEng in Artificial Intelligence
+    #     institution: Massachusetts Institute of Technology
+    #     year: 2009
+    - course: BSMS in Electrical Engineering and Computer Science
+      institution: Indian Institute of Science Education and Research, Bhopal
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,19 +53,29 @@ interests:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # MODIFY: add your mail, pure and Google Scholar if you want.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:prin@itu.dk
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/nisioti_eleni
+  - icon: twitter
+    icon_pack: fas
+    link: https://twitter.com/PratikIngle_
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/pratik-ingle
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:prin@itu.dk
+  - icon: external-link-alt
+    icon_pack: fas
+    link: https://pratik-ingle.github.io/
+  - icon: linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/pratik-ingle-03034b152
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "prin@itu.dk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Working on decentralized robotic manipulation with modular robots 
+
+Working on distributed control and learning in soft modular robots.
