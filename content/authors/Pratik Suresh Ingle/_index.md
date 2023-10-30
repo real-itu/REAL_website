@@ -54,19 +54,19 @@ education:
 # MODIFY: add your mail, pure and Google Scholar if you want.
 social:
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/PratikIngle_
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/pratik-ingle
   - icon: envelope
     icon_pack: fas
     link: mailto:prin@itu.dk
-  - icon: external-link-alt
+  - icon: house-user
     icon_pack: fas
     link: https://pratik-ingle.github.io/
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/pratik-ingle-03034b152
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
