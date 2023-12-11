@@ -34,9 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bailey-dacre-a339a0123/
-- icon: github
-  icon_pack: fab
-  link: https://www.linkedin.com/in/bailey-dacre-a339a0123/
+#- icon: github
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/bailey-dacre-a339a0123/
 
 email: "baid@itu.dk"
 
