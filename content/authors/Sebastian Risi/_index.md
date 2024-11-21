@@ -54,7 +54,7 @@ social:
   link: mailto:sebr@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: https://scholar.google.com/citations?user=Tf8winBIYUsC&hl=en
 - icon: external-link-alt
   icon_pack: fas
   link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
