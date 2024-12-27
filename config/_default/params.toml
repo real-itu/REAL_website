@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Robotics, Evolution and Art Lab at ITU"
+description = "Robotics, Evolution and Artificial Life Laboratory at ITU"
 
 ############################
 ## Site Features
