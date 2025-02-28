@@ -22,9 +22,9 @@ bio: Working on self-driving vehicle safety.
 
 # Interests to show in About widget
 interests:
-- Emergence
+- Machine Learning in Operations Research
+- Safe Reinforcement Learning
 - Reinforcement Learning
-- Safety
 
 # Education to show in About widget
 # education:
