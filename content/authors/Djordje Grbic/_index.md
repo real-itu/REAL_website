@@ -65,4 +65,4 @@ email: ""
 highlight_name: false
 ---
 
-I finished a computer science master's degree at the University of Zagreb where I worked on the application of AI to the university exam scheduling for my master thesis. After the master's, I moved to Switzerland to complete my Ph.D. in the application of AI to evolutionary biology. Currently, I am doing my postdoc at the IT University of Copenhagen where I'm on an international DARPA project concerning self-driving vehicle safety. At the ITU I was in charge of two courses on the master's program.
+I finished a computer science master's degree at the University of Zagreb where I worked on the application of AI to the university exam scheduling for my master thesis. After the master's, I moved to Switzerland to complete my Ph.D. in the application of AI to evolutionary biology. I've spent my postdoc at the IT University of Copenhagen where I was a part of international DARPA project concerning self-driving vehicle safety. Currently, I hold an associate professorship at the ITU focusing on safe Reinforcement Learning, applications of Machine Learning to Operations research, and on occasion, I experiment with Artificial Life.
