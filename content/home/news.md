@@ -23,7 +23,7 @@ title: News
       try {
         // Replace with the actual API endpoint when Bluesky provides one
         // This is a placeholder as Bluesky doesn't have a public embed API yet
-        const response = await fetch('https://api.bsky.app/v1/feed/profile/roboevoartlab.bsky.social');
+        const response = await fetch('https://api.bsky.app/v1/feed/profile/real.itu.dk');
         const data = await response.json();
         
         const feedContainer = document.getElementById('bsky-feed');
@@ -42,11 +42,11 @@ title: News
             feedContainer.appendChild(postElement);
           });
         } else {
-          feedContainer.innerHTML = '<p>Please visit our <a href="https://bsky.app/profile/roboevoartlab.bsky.social" target="_blank">Bluesky profile</a> to see our latest updates.</p>';
+          feedContainer.innerHTML = '<p>Please visit our <a href="https://bsky.app/profile/real.itu.dk" target="_blank">Bluesky profile</a> to see our latest updates.</p>';
         }
       } catch (error) {
         console.error('Error fetching Bluesky posts:', error);
-        document.getElementById('bsky-feed').innerHTML = '<p>Unable to load Bluesky feed. Please visit our <a href="https://bsky.app/profile/roboevoartlab.bsky.social" target="_blank">Bluesky profile</a> directly.</p>';
+        document.getElementById('bsky-feed').innerHTML = '<p>Unable to load Bluesky feed. Please visit our <a href="https://bsky.app/profile/real.itu.dk" target="_blank">Bluesky profile</a> directly.</p>';
       }
     }
     
