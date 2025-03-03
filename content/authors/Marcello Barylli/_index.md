@@ -1,9 +1,7 @@
 ---
 # Display name 
-# MODIFY:
 title: Marcello Barylli
 
-# MODIFY:
 authors:
 - Marcello Barylli
 
@@ -11,7 +9,6 @@ authors:
 superuser: false
 
 # Role/position/tagline
-# MODIFY:
 role: PhD
 user_groups: ["PhDs"]
 
@@ -21,11 +18,9 @@ organizations:
   url: https://www.itu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-# MODIFY:
 bio: Working on self-organising AI, multi-agent systems and environment generation for reinforcement learning.
 
 # Interests to show in About widget
-# MODIFY:
 interests:
 - Biological Complexity
 - Collective Intelligence
@@ -35,7 +30,6 @@ interests:
 
 
 # Education to show in About widget
-# UNCOMMENT AND MODIFY IF YOU WANT TO:
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -52,7 +46,6 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# MODIFY: add your mail, pure and Google Scholar if you want.
 social:
 - icon: envelope
   icon_pack: fas
