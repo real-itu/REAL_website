@@ -9,7 +9,7 @@ superuser: false
 
 # Role/position/tagline
 role: PhD
-user_groups: ["PhDs"]
+user_groups: [PhD Students]
 
 # Organizations/Affiliations to show in About widget
 organizations:
