@@ -29,8 +29,8 @@ interests:
 
 
 # Education to show in About widget
-# education:
-#   courses:
+ education:
+   courses:
   - course: MSc in Computational Science
     institution: University of Amsterdam
     year: 2024
