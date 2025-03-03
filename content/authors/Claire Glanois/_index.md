@@ -10,7 +10,7 @@ superuser: false
 
 # Role/position/tagline
 role: Postdoc
-user_groups: ["Postdocs"]
+user_groups: ["Previous Members"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
