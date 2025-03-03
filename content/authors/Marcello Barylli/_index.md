@@ -1,4 +1,3 @@
----
 title: Marcello Barylli
 
 authors:
