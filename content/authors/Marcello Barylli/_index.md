@@ -8,7 +8,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD
+role: PhD Student
 user_groups: [PhD Students]
 
 # Organizations/Affiliations to show in About widget
