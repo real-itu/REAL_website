@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 user_groups: ["Professors"]
 
 # Organizations/Affiliations to show in About widget
@@ -22,10 +22,12 @@ bio: Morten is a robotics engineer and software developer with a keen interest i
 
 # Interests to show in About widget
 interests:
-- socially assistive robots
+- Context comprehension in robotics
+- Socially assistive robots
 - Human-robot interaction
-- Reinforcement Learning
-- context comprehension in robotics
+- Reinforcement learning
+- Synthetic emotions
+- Agentic LLM control architectures for robotics
 
 # Education to show in About widget
 education:
@@ -55,6 +57,9 @@ email: "mrof@itu.dk"
 highlight_name: false
 ---
 
-Morten is a software developer and robotics engineer with a keen interest in affective computing, synthetic emotions and artificial intelligence. His research focuses primarily on affective robotics, robotics & affective interaction design, and constructing emotionally intelligent systems. With a focus on the engineering aspects of robot construction, Morten’s projects evolve around improving how robots communicate affective information. This is achieved through expanding knowledge on the means of which robots express themselves and the software that controls their behaviour.  
+Morten Roed Frederiksen is a software developer and robotics engineer whose current work centers on agentic large language model (LLM) control architectures for robotics. By combining advanced AI-driven decision-making with user-focused design principles, he aims to develop more adaptive, context-aware robots that can dynamically interpret human input and respond over extended interactions. This approach reflects Morten’s broader commitment to marrying technical innovation with insights from psychology, affective computing, and human-robot interaction (HRI) research.
 
-Morten holds a PhD in robotics, a BA and MA in software development which he received at the IT-University of Copenhagen.  His current projects include context-awareness for social robots and behavior adaptation in HRI. He has received several research scholarships including the Fulbright Scolorship.
+Beyond these LLM-driven architectures, Morten’s work has long emphasized socially assistive and embodied affective robotics. By integrating reinforcement learning and physiological sensing into social robot engineering and design, Morten seeks to broaden robots’ expressive and empathetic capacities—ultimately enhancing their ability to support individuals coping with anxiety, stress, and related challenges.
+
+Morten holds a PhD in robotics, as well as BA and MA degrees in software development. He has also been awarded several research scholarships, including the Fulbright Scholarship. His ongoing and future projects continue to explore the intersection of robust engineering, affective interaction, and AI-driven personalization—pushing the boundaries of how robots perceive human emotions and adapt their behaviors to promote well-being.
+
