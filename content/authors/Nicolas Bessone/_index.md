@@ -12,8 +12,8 @@ superuser: false
 
 # Role/position/tagline
 # MODIFY:
-role: PhD Student
-user_groups: ["PhD Students"]
+role: Postdoc
+user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
