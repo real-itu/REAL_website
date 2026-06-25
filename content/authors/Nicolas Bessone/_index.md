@@ -12,8 +12,8 @@ superuser: false
 
 # Role/position/tagline
 # MODIFY:
-role: PhD Student
-user_groups: ["PhD Students"]
+role: Postdoc
+user_groups: ["Postdocs"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,4 +68,4 @@ email: ""
 highlight_name: false
 ---
 
-My research is focused on the behavior of complex systems, particularly on Multi-Agent and Decentralized Systems.
+My research is focused on the behavior of complex systems, multi-agent and decentralized systems.
