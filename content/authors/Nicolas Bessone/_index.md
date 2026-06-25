@@ -68,4 +68,4 @@ email: ""
 highlight_name: false
 ---
 
-My research is focused on the behavior of complex systems, particularly on Multi-Agent and Decentralized Systems.
+My research is focused on the behavior of complex systems, multi-Agent and decentralized systems.
