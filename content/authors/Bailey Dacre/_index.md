@@ -44,9 +44,9 @@ social:
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://bsky.app/profile/bdacre.bsky.social
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/baileydacre
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://bdacre.github.io/
 
 email: "baid@itu.dk"
 
